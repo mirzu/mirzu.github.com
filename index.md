@@ -1,46 +1,24 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Michal Minecki  
+tagline: Engineer, Maker and Serial Hobbiest.
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+I lead a small but amazing team of developers and designers to make big ideas for the web at [Four Kitchens](http://fourkitchens.com/), a design and development firm in [Austin, Texas](https://www.google.com/maps/preview/place/Austin,+TX/). When I'm not in a meeting I'm working with [Drupal](http://drupal.org) and [node.js](http://nodejs.org/)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+On the rare occasion when I'm not working I seam to split my time between an very changing and frighteningly diverse array of hobbies. I ride my bike to work most days, and am never shy about taking my bike appart. I play with LEDs and microcontrols, I play with Legos I play board games. I've built furniture, sets for movies and more than a few art cars.
 
-## Update Author Attributes
+I love my wife. My dogs, Chloe and Tesla, and my famlie(s). I love the internet, I love freedom and I love BBQ.
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+When I grow up I'll spend my days helping keep the internet free and exploring outer space.
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+[Nicola Tesla](http://en.wikipedia.org/wiki/Nikola_Tesla), [Harper Reed](http://harperreed.com/) and [Dries Buytaert](http://buytaert.net/) inspire me.
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+## Where to find me
 
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+* twitter: [@mirzu](https://twitter.com/mirzu)
+* github: [mirzu](https://github.com/mirzu)
+* email: [michal@mirzu.com](mailto:michal@mirzu.com)
+* linkedin: [michalminecki](http://www.linkedin.com/in/michalminecki)
+* flickr: [mirzuu](http://www.flickr.com/photos/mirzuu/)
