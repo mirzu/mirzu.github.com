@@ -3,18 +3,17 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-pygments: true
-
+hylighters: rouge
+theme: minima
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
 title : mirzu
 tagline: Michal Minecki
-author :
-  name : Michal Minecki
-  email : michal@mirzu.com
-  github : mirzu
-  twitter : mirzu
+author : Michal Minecki
+email : michal@mirzu.com
+github : mirzu
+twitter : mirzu
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -128,4 +127,3 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
   
 
-theme: jekyll-theme-minimal
